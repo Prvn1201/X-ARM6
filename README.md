@@ -27,4 +27,10 @@ This project demonstrates the integration of the XARM6 robotic arm with a 3D pri
 - Python 3 installed.  
 - Necessary Python libraries (specified in the code).  
 
+## Team Members 
+- LOO HUI KIE
+- RONALD LEE DENG
+- RHESYAN NAIDU A/L SOMU NAIDU
+- TANG GUI HONG
+- PRAVIN A/L THIRUCHELVAM 
 
